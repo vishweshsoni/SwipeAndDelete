@@ -1,8 +1,7 @@
-# swipe_del
+# flutter_app
 
-A new Flutter application.
+Exploring flutter :)
 
-## Getting Started
+Swipe And Delete list View
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<a href="https://gfycat.com/gifs/detail/LastThirdGelada"><img src=https://thumbs.gfycat.com/LastThirdGelada-size_restricted.gif ></a>
